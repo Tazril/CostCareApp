@@ -1,41 +1,22 @@
 # cost_care
 
-A flutter UI Challenge for Traveling
+A flutter application for showing costs of medical services
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+This project is developed using Flutter. The REST API used is available at [rest_api_server](http://tazril.pythonanywhere.com/) and here is repository [link](https://github.com/Tazril/CostCareRESTAPI/)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
+Libraries used:
+ * http
+ * intl
+ * url_launcher
 
 ## Screenshots
 
 
 <p float="left">
-  <img src="/screenshots/Screenshot_20200309-001321.png" width="200" />
-  <img src="/screenshots/Screenshot_20200309-001328.png" width="200" /> 
-  <img src="/screenshots/Screenshot_20200309-001340.png" width="200" />
-   <img src="/screenshots/Screenshot_20200309-001347.png" width="200" />
-   <img src="/screenshots/Screenshot_20200309-001404.png" width="200" />
-  <img src="/screenshots/Screenshot_20200308-172505.png" width="200" />
-  <img src="/screenshots/Screenshot_20200308-172514.png" width="200" />
-  <img src="/screenshots/Screenshot_20200309-010933.png" width="200" />
-   <img src="/screenshots/Screenshot_20200309-001409.png" width="200" />
-     <img src="/screenshots/Screenshot_20200309-001409.png" width="200" />
-
-   <img src="/screenshots/Screenshot_20200309-001419.png" width="200" />
-
-   <img src="/screenshots/Screenshot_20200309-001443.png" width="200" />
-
-   <img src="/screenshots/Screenshot_20200309-001448.png" width="200" />
-
-   <img src="/screenshots/Screenshot_20200309-001457.png" width="200" />
-   <img src="/screenshots/Screenshot_20200309-001505.png" width="200" />
-      <img src="/screenshots/Screenshot_20200309-001511.png" width="200" />
-
-
+    <img src="/Screenshots/cost-care-app.gif" width="200" />
+    <img src="/Screenshots/8. Screenshot_.jpg" width="200" />
+    <img src="/Screenshots/16. Screenshot.jpg" width="200" />
+    <img src="/Screenshots/17. Screenshot.jpg" width="200" />
 </p>
